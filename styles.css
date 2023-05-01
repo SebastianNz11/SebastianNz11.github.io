@@ -1,0 +1,35 @@
+.bg-header {
+  height: 6rem;
+}
+
+.bg-card {
+  background-color: #0e0036;
+}
+
+input {
+  border-radius: 1rem;
+  background-color: #eeedf3;
+  height: 3.1rem;
+  width: 8rem;
+  text-align: center;
+  border: 0;
+  outline: none;
+  font-size: 1rem;
+}
+
+.bg-card-js {
+  background-color: #0e0036;
+}
+
+.bg-card {
+  background-color: transparent;
+}
+
+.bg-m {
+  background: rgb(14, 0, 54);
+  background: linear-gradient(
+    0deg,
+    rgba(14, 0, 54, 1) 0%,
+    rgba(29, 180, 228, 1) 100%
+  );
+}
